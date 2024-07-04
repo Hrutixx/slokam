@@ -1,0 +1,2 @@
+# slokam
+my self practice
